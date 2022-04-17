@@ -13,7 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-This is a work of Ogbeni_jazzwill(twitter account). This is my first full stack Dapp lauched to the Rinkeyby test net. This is the smart contract and node.js project file lauched using Hardhat and Alchemy.
+This is a work of [Ogbeni_jazzwill](https://twitter.com/Ogbeni_jazzwil)(twitter account). This is my first full stack Dapp lauched to the Rinkeyby test net. This is the smart contract and node.js project file lauched using Hardhat and Alchemy.
 
 The project has a test file for development and testing...run.js
 To test run the project using hardhat dummy accounts run -> npx hardhat run scripts/run.js 
